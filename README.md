@@ -1,2 +1,2 @@
 # Biodata
-Using HTML &amp CSS
+Using HTML & CSS
